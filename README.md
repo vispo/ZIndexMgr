@@ -13,7 +13,7 @@ A JavaScript zIndex manager for managing dynamic zIndex layers
 
 	Read these to understand zIndex: 
 	https://www.freecodecamp.org/news/z-index-explained-how-to-stack-elements-using-css-7c5aa0f179b3/  
-	https://www.smashingmagazine.com/2019/04/z-index-component-based-web-application/
+	https://philipwalton.com/articles/what-no-one-told-you-about-z-index/
 	https://developer.mozilla.org/en-US/docs/Web/CSS/CSS_Positioning/Understanding_z_index/The_stacking_context 
 	https://developer.mozilla.org/en-US/docs/Web/CSS/CSS_Positioning/Understanding_z_index 
 
