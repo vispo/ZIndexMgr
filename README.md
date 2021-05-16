@@ -5,9 +5,9 @@ A JavaScript zIndex manager for managing dynamic zIndex layers
 	ZIndexMgr.js DOCUMENTATION
 	//**************************************************************************************************
 	
-	AUTHOR: JIM ANDREWS, VISPO.COM
+	AUTHOR: JIM ANDREWS, VISPO.COM  
 	
-	VIDEO TUTORIAL: [youtu.be/wENFeZlrhKc](https://youtu.be/wENFeZlrhKc) 
+VIDEO TUTORIAL: [youtu.be/wENFeZlrhKc](https://youtu.be/wENFeZlrhKc) 
 	
 	SUMMARY---------------------------------------------------------------------------------------------
 
