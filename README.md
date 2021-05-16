@@ -1,6 +1,7 @@
+VIDEO TUTORIAL: [youtu.be/wENFeZlrhKc](https://youtu.be/wENFeZlrhKc) 
+
 # ZIndexMgr
 A JavaScript zIndex manager for managing dynamic zIndex layers
-VIDEO TUTORIAL: [youtu.be/wENFeZlrhKc](https://youtu.be/wENFeZlrhKc) 
 
 	//**************************************************************************************************
 	ZIndexMgr.js DOCUMENTATION
