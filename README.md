@@ -7,6 +7,8 @@ A JavaScript zIndex manager for managing dynamic zIndex layers
 	
 	AUTHOR: JIM ANDREWS, VISPO.COM
 	
+	VIDEO TUTORIAL: https://youtu.be/wENFeZlrhKc 
+	
 	SUMMARY---------------------------------------------------------------------------------------------
 
 	This manages the z-index values of the windows/containers (usually divs) in your web app.
