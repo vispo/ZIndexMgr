@@ -7,7 +7,7 @@ A JavaScript zIndex manager for managing dynamic zIndex layers
 	
 	AUTHOR: JIM ANDREWS, VISPO.COM
 	
-	VIDEO TUTORIAL: https://youtu.be/wENFeZlrhKc 
+	VIDEO TUTORIAL: [youtu.be/wENFeZlrhKc](https://youtu.be/wENFeZlrhKc) 
 	
 	SUMMARY---------------------------------------------------------------------------------------------
 
