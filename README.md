@@ -1,13 +1,12 @@
 # ZIndexMgr
 A JavaScript zIndex manager for managing dynamic zIndex layers
+VIDEO TUTORIAL: [youtu.be/wENFeZlrhKc](https://youtu.be/wENFeZlrhKc) 
 
 	//**************************************************************************************************
 	ZIndexMgr.js DOCUMENTATION
 	//**************************************************************************************************
 	
 	AUTHOR: JIM ANDREWS, VISPO.COM  
-	
-VIDEO TUTORIAL: [youtu.be/wENFeZlrhKc](https://youtu.be/wENFeZlrhKc) 
 	
 	SUMMARY---------------------------------------------------------------------------------------------
 
