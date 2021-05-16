@@ -19,6 +19,12 @@ A JavaScript zIndex manager for managing dynamic zIndex layers
 	of ZIndexMgr to manage those windows/containers. The windows/containers managed by a given
 	instance of ZIndexMgr need to be part of the same "stacking context" (see above URLs).
 
+	The CSS z-index property does not apply to elements whose CSS position property is the default
+	'static' value. Such elements are called 'non-positioned element', whereas an element that has
+	a position property value of anything else is a 'positioned element'. All the elements you 
+	want to manage with ZIndexMgr have to be 'positioned elements'; their CSS position property
+	value must be either 'absolute' or 'relative' or 'fixed' or 'sticky'.  
+
 	To create a ZIndexMgr:
 
 	var z = new ZIndexMgr(element1, element2, ... elementn);
