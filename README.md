@@ -5,12 +5,16 @@ A JavaScript zIndex manager for managing dynamic zIndex layers
 	ZIndexMgr.js DOCUMENTATION
 	//**************************************************************************************************
 	
+	AUTHOR: JIM ANDREWS, VISPO.COM
+	
 	SUMMARY---------------------------------------------------------------------------------------------
 
 	This manages the z-index values of the windows/containers (usually divs) in your web app.
 
 	Read these to understand zIndex: 
 	https://www.freecodecamp.org/news/z-index-explained-how-to-stack-elements-using-css-7c5aa0f179b3/  
+	https://philipwalton.com/articles/what-no-one-told-you-about-z-index/
+	https://developer.mozilla.org/en-US/docs/Web/CSS/CSS_Positioning/Understanding_z_index/The_stacking_context 
 	https://developer.mozilla.org/en-US/docs/Web/CSS/CSS_Positioning/Understanding_z_index 
 
 	Create one ZIndexMgr to manage the z-Index values of your main windows/layers/containers. All
